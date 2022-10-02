@@ -3,11 +3,10 @@
 const highlightjs = require;
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = oro;
+const nuevaString = hola;
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
-
 // Crea una variable booleana:
 const nuevoBool = null;
 
@@ -127,7 +126,7 @@ function elevar(num, exponent) {
 
 function redondearNumero(num) {
   // Redondea "num" al entero más próximo y devuélvelo
-  // Tu código:
+  // Tu código: 
   
 }
 
