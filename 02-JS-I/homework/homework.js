@@ -3,7 +3,8 @@
 const highlightjs = require;
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = hola;
+const nuevaString = "Angel";
+
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
